@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="my_list">My Application</string>
+    <string name="edit_message">Tuoten nimi</string>
+    <string name="edit_message_kpl">Tuoten kpl</string>
+    <string name="kpl">Montako Kpl?</string>
+    <string name="del">Poista??</string>
+</resources>
